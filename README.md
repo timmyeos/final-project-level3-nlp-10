@@ -10,6 +10,15 @@
 
 <br>
 
+## 🎥 발표 영상
+
+[![발표영상](http://img.youtube.com/vi/lP6Ye3dlld8/0.jpg)](https://youtu.be/lP6Ye3dlld8?t=0s)
+
+이미지를 클릭하시면 Youtube 링크로 연결됩니다. (약 11분)
+
+
+<br>
+
 ## 📋 Report
 
 최종 발표 PPT(다운로드) : [NLP_10조_WERODA(심리상담 챗봇).pptx](https://github.com/boostcampaitech3/final-project-level3-nlp-10/files/8883550/NLP_10._WERODA.pptx)  
